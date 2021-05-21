@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @lulu-lemon
-- 🌱 I’m currently learning python
+- 👀 New to github & the coding world
+- 🥰 All help is greatly appreciated
+- 🌱 I’m currently attempting to learn python
 - 📫 How to reach me: luimilia@icloud.com
 
 <!---
